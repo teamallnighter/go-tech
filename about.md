@@ -1,14 +1,13 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/uploads/2018/02/17/neurons.jpg"
 heading: Go Tech Foundation
-sub_heading: The Generating Opportunities Technology Foundation (GO) is a community-owned
+sub_heading: About Us
+layout: landing-page
+textline: The Generating Opportunities Technology Foundation (GO) is a community-owned
   group of profitable, high-tech initiatives creating opportunities for anticipating
   and integrating future technologies.
-layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:

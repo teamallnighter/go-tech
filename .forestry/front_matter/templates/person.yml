@@ -36,5 +36,6 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/aziz-kapasi.md
 - _people/dustin-poole.md
 - _people/navin-huq.md

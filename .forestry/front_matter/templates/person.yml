@@ -36,4 +36,5 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/dustin-poole.md
 - _people/navin-huq.md

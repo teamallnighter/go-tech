@@ -9,9 +9,9 @@ partners:
 - "/uploads/2017/11/13/nysed.png"
 services:
 - description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+    the energy sector
+  heading: Renewable Energy
+  icon: "/uploads/2020/12/31/82097-200.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech

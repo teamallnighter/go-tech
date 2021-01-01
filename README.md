@@ -4,8 +4,6 @@
 
 ---
 
-
-
 ### Requirements
 
 - Ruby > 2.4
@@ -21,5 +19,4 @@ bundle install
 # Run a local server to preview your work 
 bundle exec jekyll serve
 ```
-
 

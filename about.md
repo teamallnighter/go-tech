@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/02/17/neurons.jpg"
+banner_image: "/uploads/2021/01/01/4k-dark-blue-lines-grid-lines-wallpaper-thumb.jpg"
 heading: Go Tech Foundation
 sub_heading: About Us
 layout: landing-page

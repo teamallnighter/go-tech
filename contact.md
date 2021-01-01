@@ -1,9 +1,9 @@
 ---
 title: Contact
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/12/07/compass.jpg"
+date: '2017-11-01T03:00:00.000+00:00'
+banner_image: "/uploads/2021/01/01/5bd0bdc12d414-wallpaper-preview.jpg"
 heading: Contact Go Tech Foundation
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
   navigation:

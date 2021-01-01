@@ -4,8 +4,21 @@
 
 header.site-header{
     background: #000000;
+    color: white;
 }
 
 h1{
     margin-top: 5vh;
+}
+
+button{
+    background-color: white;
+    color: #1b1b1b;
+}
+
+.copyright{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }

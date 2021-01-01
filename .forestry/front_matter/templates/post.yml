@@ -38,6 +38,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/covid-19-energy-support-program.md
-- _posts/emco-is-empowering-communities.md

@@ -16,7 +16,7 @@ menu:
     weight: 3
   navigation:
     identifier: _about
-    weight: 2
+    weight: 3
 
 ---
 ## Our mission

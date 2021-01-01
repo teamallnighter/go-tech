@@ -9,10 +9,11 @@ banner_image: "/uploads/2021/01/01/thinkstockphotos-816838496_72dpi.jpg"
 menu:
   navigation:
     identifier: _projects
-    weight: 3
+    weight: 2
+    parent: _about
   footer:
     identifier: _projects
     url: "/projects/"
-    weight: 2
+    weight: 1
 
 ---

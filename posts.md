@@ -11,9 +11,10 @@ hero_button:
 menu:
   navigation:
     identifier: _posts
-    weight: 3
+    weight: 1
+    parent: _about
   footer:
     identifier: _posts
-    weight: 3
+    weight: 2
 
 ---

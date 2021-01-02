@@ -310,3 +310,19 @@ button{
 	text-decoration: underline;
 	font-style: normal;
 }
+
+.nav-item{
+	color: white;
+}
+
+.nav-item:hover{
+	color: red;
+}
+
+.navitem{
+	color: white;
+}
+
+.navitem:hover{
+	color: red;
+}

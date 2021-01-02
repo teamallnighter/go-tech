@@ -4,9 +4,7 @@ banner_image: "/uploads/2018/02/17/neurons.jpg"
 layout: landing-page
 heading: GO Technology Foundation
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2021/01/01/public.png"
 services:
 - description: Performing collaborative research and providing services to support
     the energy sector

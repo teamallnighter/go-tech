@@ -311,18 +311,18 @@ button{
 	font-style: normal;
 }
 
-.nav-item{
+.nav-item, #nav-item{
 	color: white;
 }
 
-.nav-item:hover{
+.nav-item, #nav-item:hover{
 	color: red;
 }
 
-.navitem{
+.navitem, #navitem{
 	color: white;
 }
 
-.navitem:hover{
+.navitem, #navitem:hover{
 	color: red;
 }

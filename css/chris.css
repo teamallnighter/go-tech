@@ -326,3 +326,7 @@ button{
 .navitem, #navitem:hover{
 	color: red;
 }
+
+input{
+	width: 100%;
+}

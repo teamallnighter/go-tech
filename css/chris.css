@@ -330,3 +330,11 @@ button{
 input{
 	width: 100%;
 }
+
+.form-wrapper{
+	padding: ovh 20vw;
+}
+
+li{
+	list-style: none;
+}
